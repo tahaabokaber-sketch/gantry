@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Autonomous 3-Axis Gantry Precision Farming Robot',
+  description: 'A DeepTech precision agriculture platform combining robotics, computer vision, AI, precision planting, and localized irrigation.',
   generator: 'v0.app',
   icons: {
     icon: [
